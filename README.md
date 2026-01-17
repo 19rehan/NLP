@@ -1,1 +1,1 @@
-There Will Be Only NLP Projects.
+There Will Be Only NLP Projects
