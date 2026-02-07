@@ -5,7 +5,6 @@ Spam Classification.
 
 Word Prediction.
 
-
 Auto Correction.
 
 And Many More.
