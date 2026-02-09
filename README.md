@@ -1,4 +1,4 @@
-There Will Be Only NLP Projects
+ There Will Be Only NLP Projects
 
 
 Spam Classification.
@@ -6,7 +6,7 @@ Spam Classification.
 Word Prediction.
 
 Auto Correction.
-
+ 
 And Many More.
 
  
