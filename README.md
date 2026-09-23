@@ -6,4 +6,4 @@ Word Prediction.
 
 Auto Correction.
  
-And Many More.
+And Many More
